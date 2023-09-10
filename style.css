@@ -14,7 +14,7 @@ body{
 }
 .header{
     position: relative;
-    background: url(/imges/Mainbg.jpg) center center no-repeat;
+    background: url(Mainbg.jpg) center center no-repeat;
     height: 100vh;
     background-size: cover;
 }
@@ -272,7 +272,7 @@ video{
 }
 /* INFO--------------------- */
 .info{
-    background-image: url(/imges/back.jpg);
+    background-image: url(back.jpg);
     background-repeat:no-repeat;
     background-size: cover;
     height: 357px;
